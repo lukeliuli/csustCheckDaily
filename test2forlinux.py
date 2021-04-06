@@ -232,7 +232,7 @@ if __name__=='__main__':
 #    logfile=os.getcwd()+'\\'+time.strftime("%Y-%m-%d", time.localtime())+'.log'
     print('start\n')
   
-    for num in range(1, 10):#运行9次
+    for num in range(1, 3):#运行9次
         
         path1=os.getcwd()
 
